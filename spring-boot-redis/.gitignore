@@ -57,9 +57,9 @@ spring-test/test-output/
 /untitled/
 
 # Maven wrapper
-/**/.mvn
-/**/mvnw
-/**/mvnw.cmd
+.mvn
+mvnw
+mvnw.cmd
 
 # Eclipse artifacts, including WTP generated manifests
 bin
